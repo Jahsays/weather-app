@@ -90,8 +90,8 @@ h1.temp{
 
 @media (max-width: 1400px){
     body{
-        /* font-size: 90%; */
-        /* background-repeat: no-repeat; */
+        font-size: 220%;
+        background-repeat: no-repeat;
         background-size: cover;
     }
     /* .card{
