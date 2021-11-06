@@ -6,8 +6,8 @@ body{
     margin: 0;
     background: #222;
     font-family: 'Nanum Gothic', sans-serif;
-    background-image: url("https://res.cloudinary.com/jsays/image/upload/v1636032326/background%20image%20for%20weather%20app.jpg");
-    /* background-image: url("https://source.unsplash.com/1600x900/?landscape"); */
+    /* background-image: url("https://res.cloudinary.com/jsays/image/upload/v1636032326/background%20image%20for%20weather%20app.jpg"); */
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
     font-size: 120%;
     /* background-size: cover; */
 }
